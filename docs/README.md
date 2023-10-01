@@ -46,7 +46,7 @@
 
 ### <a id="rectangle_description">Rectangle</a>
 **area**(a, b)  
-&nbsp; Returns the area of the rectangle with specified sides **a**  and **b** 
+&nbsp; Returns the area of the rectangle with specified sides **a**  and **b**  
 **perimeter**(a, b)  
 &nbsp; Returns the perimeter of the rectangle with specified sides **a** and **b**
 
