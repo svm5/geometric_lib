@@ -90,11 +90,13 @@
     10.2
 
 ## <a id="modification">Project modification history</a>
-| Commit hash    | Commit message (description)                            |
-| -------------- | ------------------------------------------------------- |
-| 8ba9aeb        | Circle and square added                                 |
-| d078c8d        | Docs added                                              |
-| 8eed03e        | Rectangle added                                         |
-| e661c97        | Correct calculation of the rectangle perimeter          |
-| 477bc4a        | Correct calculation of the rectangle perimeter and area |
-| c1c5080        | Triangle added                                          |
+| Commit hash    | Commit message (description)                                            |
+| -------------- | ----------------------------------------------------------------------- |
+| 8ba9aeb        | Circle and square added                                                 |
+| d078c8d        | Docs added                                                              |
+| 8eed03e        | Rectangle added                                                         |
+| e661c97        | Correct calculation of the rectangle perimeter                          |
+| 477bc4a        | Correct calculation of the rectangle perimeter and area                 |
+| c1c5080        | Triangle added                                                          |
+| ed75673        | Added check arguments in functions in all modules                       |
+| 3f466e6        | Added unit test for all modules(circle, rectangle, square and triangle) |
